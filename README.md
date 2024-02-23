@@ -1,5 +1,4 @@
-# Project-2
-<!DOCTYPE html>
+# movie review central
 <html lang="en">
 <head>
     <meta charset="UTF-8">
